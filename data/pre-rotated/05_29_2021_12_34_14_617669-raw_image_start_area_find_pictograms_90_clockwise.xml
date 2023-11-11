@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>05_29_2021_12_34_14_617669-raw_image_start_area_find_pictograms_90_clockwise.jpg</filename>
+	<path>/my-project-name/05_29_2021_12_34_14_617669-raw_image_start_area_find_pictograms_90_clockwise.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>341</ymin>
+			<xmax>117</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>

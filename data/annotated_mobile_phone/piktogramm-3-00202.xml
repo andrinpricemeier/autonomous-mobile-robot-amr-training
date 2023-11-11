@@ -1,0 +1,37 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>piktogramm-3-00202.jpg</filename>
+	<path>/my-project-name/piktogramm-3-00202.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1088</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>1138</xmin>
+			<ymin>253</ymin>
+			<xmax>1546</xmax>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>brick</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>1826</xmin>
+			<ymin>119</ymin>
+			<xmax>1920</xmax>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,1 @@
+python pipeline.py -i "C:\\Temp\\1_Trainingsset" -o "C:\\Temp\\workspace"

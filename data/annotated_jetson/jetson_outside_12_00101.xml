@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>jetson_outside_12_00101.jpg</filename>
+	<path>/my-project-name/jetson_outside_12_00101.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>hammer</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>489</ymin>
+			<xmax>495</xmax>
+			<ymax>673</ymax>
+		</bndbox>
+	</object>
+</annotation>

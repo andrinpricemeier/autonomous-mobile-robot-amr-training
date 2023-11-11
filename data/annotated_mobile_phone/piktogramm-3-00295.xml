@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>piktogramm-3-00295.jpg</filename>
+	<path>/my-project-name/piktogramm-3-00295.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1088</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bucket</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>866</xmin>
+			<ymin>198</ymin>
+			<xmax>1230</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

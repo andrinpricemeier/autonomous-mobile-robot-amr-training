@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>piktogramm-4-00322.jpg</filename>
+	<path>/my-project-name/piktogramm-4-00322.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1088</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pencil</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>830</xmin>
+			<ymin>109</ymin>
+			<xmax>1437</xmax>
+			<ymax>810</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>05_28_2021_08_38_28_157174-raw_image_start_area_find_pictograms_90_clockwise.jpg</filename>
+	<path>/my-project-name/05_28_2021_08_38_28_157174-raw_image_start_area_find_pictograms_90_clockwise.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pencil</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>680</xmin>
+			<ymin>467</ymin>
+			<xmax>840</xmax>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+</annotation>
